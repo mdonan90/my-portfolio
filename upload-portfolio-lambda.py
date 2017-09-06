@@ -9,7 +9,7 @@ def lambda_handler(event, context):
 
     location = {
         "bucketName": 'portfoliobuild.onanlabs.com'
-        "objectKey": 'portfoliobuild.onanlabs.com'
+        "objectKey": 'portfolio.zip'
     }
 
     try:
